@@ -1,7 +1,6 @@
-# DRUG_ANALYSIS_DASHBOARD
-                                                                                                                                     INSIGHTS
-                                                                                                                                     
-Trends of Crime in 2022: Crime incidents saw a peak in December and  then the lowest number of crime in a was recorded in month January.
+                                                    INSIGHTS
+
+Trends of Crime in 2022: Crime incidents saw a peak in December and  then the lowest number of crime in a was recorded in month January.
 
 Crime types: Theft is the most common crime,followed closely by burglary assault.
 
@@ -23,8 +22,8 @@ Drug Type and Conviction: For most drug types, the number of incidents where ind
 
 Income and Incidents: Low-income individuals are involved in the highest number of incidents, followed by middle-income and high-income individuals.
 
-                                                                                                                                  Recommendations:
-                                                                                                                                  
+                                                                                                                                  Recommendations:
+
 Crime Prevention: Given the high incidents of theft, consider launching publie awareness campaigns and community policing initiatives specifically targeting theft prevention.
 
 Urban Area Focus: Allocate more police resources and surveillance to urban areas due to the higher number of incidents.
@@ -46,4 +45,3 @@ Community Policing: Encourage community policing and community watch programs, e
 Data Continuation: Continually update and review the dashboard to adapt strategies and interventions based on changing trends and patterns.
 
 Gender-Specific Programs: Given the higher male involvement in incidents, consider gender-specific interventions or programs targeting males.
-<img width="3044" height="2108" alt="image" src="https://github.com/user-attachments/assets/af3eb369-346a-4b3d-b3c7-c3d2cb1156da" />
